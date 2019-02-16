@@ -1,1 +1,0 @@
-function color(o,r){return o+r}color();
